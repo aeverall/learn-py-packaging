@@ -1,3 +1,3 @@
-from learn_py_packaging.toy_module import power, multiply
+from learn_py_packaging.toy_module import power
 
-print(power(3,4))
+print(power(3, 4))
