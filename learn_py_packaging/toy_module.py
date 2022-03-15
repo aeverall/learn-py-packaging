@@ -1,7 +1,4 @@
-
-
 import sys, os
-import numpy as np, pandas as pd
 
 
 def power(x, y):
